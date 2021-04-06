@@ -6,7 +6,7 @@ Instructions:
   - click on the menu beside 'Copy Link' and click on 'Get share links'
   - Copy the imgur <b>direct link</b> like https://i.imgur.com/something.jpg
   
-2. Insert the imgur link in <img> tag lik <img src ="https://i.imgur.com/6BwQdQi.jpg"><img>
+2. Insert the imgur link in <img> tag lik <img src ="https://i.imgur.com/something.jpg"><img>
 
 3. Add event link to the <a> tag like <a href = "https://eventlink/">
 
