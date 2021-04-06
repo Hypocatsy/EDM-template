@@ -4,7 +4,7 @@ EDM template for EYE
 Instructions:
 1. Upload EDM design to https://imgur.com/upload
   - click on the menu beside 'Copy Link' and click on 'Get share links'
-  - Copy the imgur <b>direct link</b> like https://i.imgur.com/6BwQdQi.jpg
+  - Copy the imgur <b>direct link</b> like https://i.imgur.com/6BwQdii.jpg
   
 2. Insert the imgur link in <img> tag lik <img src ="https://i.imgur.com/6BwQdQi.jpg"><img>
 
@@ -14,4 +14,4 @@ Instructions:
 This can be easily calculated using https://www.calculatorsoup.com/calculators/math/ratios.php .
 
 The line should look like thisL
-<a href = "https://eventlink/"> <img src="https://i.imgur.com/6BwQdQi.jpg" width=600 height=480><img></a>
+<a href = "https://eventlink/"> <img src="https://i.imgur.com/6BwQdi.jpg" width=600 height=480><img></a>
